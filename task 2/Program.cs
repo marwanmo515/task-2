@@ -63,6 +63,41 @@
             //Console.WriteLine($"the number powerd = {result = (num1 ^ num2)}");
             //msh 3arf a7lha 
             #endregion
+
+
+            #region question 5
+
+            //Console.Write("Enter first sub marks: ");
+            //double FirstSubject = Convert.ToDouble(Console.ReadLine());
+
+            //Console.Write("Enter second sub marks: ");
+            //double SecondSubject = Convert.ToDouble(Console.ReadLine());
+
+            //Console.Write("Enter third sub marks: ");
+            //double ThirdSubject = Convert.ToDouble(Console.ReadLine());
+
+            //Console.Write("Enter fourth sub marks: ");
+            //double FourthSubject = Convert.ToDouble(Console.ReadLine());
+
+            //Console.Write("Enter fifth sub marks: ");
+            //double FifthSubject = Convert.ToDouble(Console.ReadLine());
+
+            //double Totaldegree = 500.0; 
+
+            //double total;
+
+            //total = (FirstSubject + SecondSubject + ThirdSubject + FourthSubject + FirstSubject);
+
+            //double average = (total / Totaldegree);
+
+            //double percntage = (total / 500.0) * 100;
+            //Console.WriteLine(total);
+            //Console.WriteLine(average);
+            //Console.WriteLine(percntage);
+            //el total msh shghala :(
+            #endregion
+
+
         }
     }
 }
